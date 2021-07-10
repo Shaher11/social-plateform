@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "davenci",
+  "private_key_id": "b1cba2137c7ebcc136cb441cda4b8b4e1eb8b4e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC7Z2KIpnrUfbur\ncbut/zigTz/uYWXkeJicTWWorqJdsxu7u4mHx6S95xCqCYpy349HAXpSfL4yk+1U\nSSLIjo6cSRTQ+AkxHqr4yZnSq6e0xaV4P5WAQUgBOuJ/CRYjR7nJiGQosvesUNXg\nvDR4j05Xz773IewX+g5nlAXZz1VVwbig+xWCQD7wBJZxuN7NpQJJF2G6x2RJb9le\nZhnkYLK3XutE1vIFO2ZAmoCryKsOZqWk+1bfs0buEgaiZrj4KoZnaj7+Jr5phIaO\nLTUuZMLP9irzb3WzDnFbxEYynhMrSMtyJJZ0u+Or+7TnvAdefDbSE8tMCiYrypZB\nMbke60+fAgMBAAECggEAAIQJspBbYO2H2p2qwmwLQUnz98Cmc8UFx6oGKH1BZGbJ\nlXqCm1/A6yyPKSIxCk6z8uhrLoZCXb/A5VmBeGes8LUT4XGciqvbb7vzFTAsPUuH\n9iKeBO1MKlKB/SwhPu+Dz2bxUxxRkNzkSQbhQUBE4USiijBCwra2pZjQxtrtqXh7\nJ0GQVWaQiwWEQbWDIWlnvwIz5pkshXa6oqDABt9wcUPq+7HJahmEbGfkmoomB2kJ\n1LST22mf1mQ+8C2ogds06cORi1PMafMeM2sRrvXBrlPO2rRL+PJgbC8ZN9WoyjrQ\nS23OzXLHnpwRvA7eBnjO51DjC7u5O7xTcThdqIhxxQKBgQDcLwLplLujb71n+98w\n5yei9w0JC5v9nlKzqOWOGY37t33wg7+e2YEU5BqsyGOBIYlEd7YwhDDsSkCKBvuT\ngW4dpjWcktUJUfgiyKAU2dfKhkXcRbEcpTFC5A+pAO4aLJXXb2z/30lkh1nolnoc\n2ADvd3BKt+lJN0xsou1JRao+JQKBgQDZ41ekC9V+5rnjE9uOJItuzZ1fTsHh+YeL\nqpuoyDc+V/tdU9WKCyhw1RRh774AXJK67u2XXaQ+05cCuUr+mH7WODlBkvZS8hMx\nRD21FhhdU/W7fUAICZdi6x6PMAethH4PqcBNTzxIqDil1qoGSuDjsI090MaaGZXJ\nStjPueJBcwKBgQCnzYQws9NUuWHmD4SHZoNEpXdfv2NApBpvJXbdFwioH61xUVcG\nHslLPJQ/vfBnh0Fv1rQYwYXvbp9FEhFE100ud29ARn7pPXkYOUIW4fadODuhpdNW\n+2ZRjjGJIVZUyEniB99QGcF7RdP1eEjUFqKP3bzMlODLlcM+v+SLBPa7qQKBgQCF\nOp7XPykvbFNTh0vj0XK0sOM+aMDitRpti0ec37fv1gpsWZujygjTXWcWL2rle7V4\nuinrOSX6CJU45CX4ITTFNiHEd+FIfJ7BrDFzLex9/J2wI/joMT0xDgVkloDLV81h\nNHHSk9WPs9TXirfyGw0CDG2A08zsYyKUr8B82/N+AwKBgQCvWV4YMEqE4rvxqa9F\nBDpyMaTO4Mm+hm+Nd9JuLrnWyW+X6sccHKSstoILBjjU6ghsuYyHlMenWh4tzbFZ\nFQkC9E9Q4MH47jtp5iHQ9Cfp6fnSDm3he/zlQaJH6rohY80e7DLFrfDve5CaWljy\ncQHW8/4Yy+UAO+ouMYYIdk6DMQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "davenci-analytics@davenci.iam.gserviceaccount.com",
+  "client_id": "103120397954512508339",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/davenci-analytics%40davenci.iam.gserviceaccount.com"
+}

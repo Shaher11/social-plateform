@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "davenci-296413",
+  "private_key_id": "53e3b3632c6ee762d0500f0c674b27d375758e0d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrTvRM9oItsBzd\nx2OywpXtAJYIE1hAV3LppL601NV2N1MgEhz83OPXw7B6IR+FNs3v/s7hMfd/FRSs\nTx+14QZzPTER8s0oFv78vKTZrIzDNugD32961d9EWXSk5w/R1yIb9s7lFzJksyq6\n5VONJFZzNb53wGEdVtnkZ88zn1lYgtq8oltbHZ7q9OmAa2i7+z11Wf4dABWBGc6J\nQBpcP+0SqNJdP3v04NyhuoZsy347+8sx718ibo7ZO+8L1l0T4dSdzbmmC+MrFVhj\nIEeLDt97fE8lxEYslgSSzu2hoSMi+5DySNzg3d/s5inZvqjSbdNfqMreBjLWKq43\nAoqPKHOzAgMBAAECggEAAdmgpxKNu11gjZhvy1N9UR6To/PZiCvlJImIybtokq3g\nYEBRFYy7B3GKjam3LAN8+agfsvmSxz3P/wrS4f010DpV0NiHdAnIYO3JGbb1d/1s\nrQeFHzwxJmCXLtCl4wVICYMvZkf97GHvKl5y+gTzilhvSvxmyiXusw5DTlqbKztG\nH7mp4sVVgYWTGH+AQodyKk8ICdqGa4UN78fV2kpiSVA9Vz4suKOoj88Ji2yT3/5/\nIwMjXh8y3pqjRDinzMQNUsfFTCHxW0uIQsGgbCj2yWKq5/kY7yCYCIuLID7SW/ox\ngwI6rZX/qPJyCnXi+ABvvQ6GX/5j1CWlBjtviQpCmQKBgQDW3eUsnPJPO5NZBc9Y\nwOVs4FBI6jRzvkCuiZTOPCtX9jq1ZB1eDi8B9F9PlxFDeTbavfMos6G9IZjxgrTc\nOnpdftDZMpVO4Uc1TDznnn6pKfabIvjnIYhTWxIhxdEO5qzBVvvfK4KO/TOE0YY/\nLAvQyLOVAXfLYD1qVJYa6rhExQKBgQDMGl5Kp4nufCkPgaLP0QAMH1nCZ1942U2Z\nsfaYD0XkOn7eFWCTZki3EAyGMo2bv1RH0IUp6CGO9dlGEUFKZsbxs5/togrnr2Mv\n9rjGErzAujBZNsingoxCRaBVXkzrqh7II9OrXn3dgGK9s/kdAP60+eo0HiycSqwu\n7QPswfGOFwKBgE9cWd8mgOD+8id5W+I+LP8PwteLmZ/+b0mIC2w5ERFGIt0Ig0hQ\nGNCx/9oXxAqV5MraScuIvX5rwF/DlSWae8O4qU7vvfIKhxCKfhxWkBXPKASY4DIO\nUpnnE0ViGRtV3Az1IcaF/YzuvG6cLOd8T0joOFwa1LJLc6OoZmC+vRy5AoGAJNOp\nKc07DQXoHr0kVF0Api9N8c7XIiYLY20B8oPm93w6gfXXfCEbg7RonhonBPAr091i\n+aHB1Fq1vnfEkRkkUl43wBfZ4d36hp/8zPh6iEfQC3jgEaFzj02i1WRzep4yeahF\nPAmLqljM+C+uBja0vpDNWmQLZpPup3TqnWCNJjcCgYEAghdHSilzGjtmJSoHdiek\nVhBhwEdA2Z00JNoUl9EkkKeByoFIpbnMaEDlfjIbWCfk/tL/PBrd1ziy7NsyGXdb\nrk8szjpKCSPfEoPIF7RJKnWxYIlh67+eZ7Zn02/vrSmIu1WosfD2w9D1ijWQUa0H\nqGefejDst1ha8rqQvjH+kG8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "davenci-analytic@davenci-296413.iam.gserviceaccount.com",
+  "client_id": "113375418405028358448",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/davenci-analytic%40davenci-296413.iam.gserviceaccount.com"
+}
