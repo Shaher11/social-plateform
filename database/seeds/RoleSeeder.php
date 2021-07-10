@@ -19,11 +19,8 @@ class RoleSeeder extends Seeder
         ]);
 
         $client = Role::create([
-            'name' => 'Client'
+            'name' => 'Guest'
         ]);
 
-        $developer = Role::create([
-            'name' => 'Developer'
-        ]);
     }
 }

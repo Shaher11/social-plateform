@@ -1,17 +1,14 @@
-## Da-vinci
+## Social Platform
 
 
-## About Da-vinci
-We are passionate about helping companies achieve their goals.
+##  Project setup
 
-
-##  Da-vinci setup
-
-- Create DB Named "da_vinci_db"
+- Create .env file and rename DB_DATABASE= social_platform
+- Create DB Named "social_platform"
 - Run " Composer install "
-- Run " php artisan migrate "
-- Run " php artisan db:seed"
+- Run " php artisan migrate:fresh --seed "
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Powred by:
+
+Mohamed Ramadan
