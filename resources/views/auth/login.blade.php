@@ -8,7 +8,7 @@
     <div class="login_wrapper">
         <div class="animate form login_form">
             <section class="login_content">
-                <img src="{{url('img/logos/Davinci-big.png')}}" class="main_logo" alt="logo" id="main_logo" style="width:70%;  margin: 5px 0 20px;">
+                <img src="{{url('img/logos/logo-1.png')}}" class="main_logo" alt="logo" id="main_logo" style="width:70%;  margin: 5px 0 20px;">
 
                 <form method="POST" action="{{ route('login') }}">
                     @csrf 
@@ -39,7 +39,7 @@
 
                     <div class="separator">
                         <p class="change_link">New to site?
-                            <a href="{{ route('register') }}" class="to_register" style="color: #d21e2b; font-weight: bold;"> Create Account </a>
+                            <a href="#" class="to_register" style="color: #d21e2b; font-weight: bold;"> Create Account </a>
                             @if (Route::has('password.request'))
                                 <a class="text-dark" href="{{ route('password.request') }}">Forget your password?</a>
                             @endif
@@ -48,7 +48,7 @@
                         <div>
                             {{-- <h1><i class="fa fa-spinner"></i> Da-vinci</h1> --}}
                         {{-- <img src="{{url('img/new/logos/davenci_nav.png')}}" class="main_logo" alt="logo" id="main_logo"> --}}
-                            <p class="m-0 p-0">©2020 All Rights Reserved. Da-vinci.</p><p class="m-0 p-0"> Privacy and Terms</p>
+                            <p class="m-0 p-0">©2020 All Rights Reserved. </p><p class="m-0 p-0"> Privacy and Terms</p>
                         </div>
                     </div>
                 </form>
