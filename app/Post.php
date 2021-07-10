@@ -52,11 +52,4 @@ class Post extends Model
         return 0;
     }
 
-
-    public function qoute()
-    {
-
-        return $this->belongsTo(Post::class);
-    }
-
 }

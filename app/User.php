@@ -19,7 +19,7 @@ class User extends Authenticatable implements MustVerifyEmail
      */
     protected $fillable = [
         'full_name', 'user_name', 'role_id', 'status', 'photo_id', 'phone', 'email',
-        'password', 'provider', 'provider_id', 'access_token'
+        'password', 'access_token'
     ];
 
     /**
@@ -66,16 +66,6 @@ class User extends Authenticatable implements MustVerifyEmail
 
         return false;
     }
-    
-    public function isClient()
-    {
-        if ($this->role->name  == "Client" || $this->role->name == "Developer" && $this->status == 1) {
-
-            return true;
-        }
-
-        return false;
-    }
 
     public function posts()
     {
@@ -87,35 +77,10 @@ class User extends Authenticatable implements MustVerifyEmail
         return $this->hasMany(Order::class);
     }
 
-
     public function getAvatarAttribute()
     {
         $hash = md5(strtolower(trim($this->attributes['email']))) . "?d=mm&s=";
         return "http://www.gravatar.com/avatar/$hash";
     }
 
-    public function client_rooms()
-    {
-        return $this->hasMany('App\Room', 'client_id');
-    }
-
-    public function messages()
-    {
-        return $this->hasMany('App\Message');
-    }
-
-    public function canJoinRoom($roomId)
-    {
-        return true;
-    }
-
-    public function client_testmonials()
-    {
-        return $this->hasMany(ClientTestimonial::class);
-    }
-
-    public function codes()
-    {
-        return $this->belongsToMany('App\Code', 'code_user');
-    }
 }
