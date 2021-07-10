@@ -8,7 +8,12 @@
 - Run " Composer install "
 - Run " php artisan migrate:fresh --seed "
 
+## Login as admin:
+
+- Username: admin@gmail.com
+- Password: password
 
 ## Powred by:
 
 Mohamed Ramadan
+
